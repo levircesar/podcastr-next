@@ -25,3 +25,15 @@ getStaticProps so funciona em producao, para isso execute
 ```
 yarn build e depois yarn start
 ```
+
+//import de api
+//SPA - useEffect (nao indexa no google)
+{/*
+useEffect(()=>{
+    fetch('http://localhost:3333/episodes')
+      .then(response => response.json())
+      .then(data => console.log(data))
+  },[]);
+*/}
+//SSR - getServerSideProps
+//SSG - getStaticProps - so funciona em producao
