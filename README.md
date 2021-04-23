@@ -37,3 +37,13 @@ useEffect(()=>{
 */}
 //SSR - getServerSideProps
 //SSG - getStaticProps - so funciona em producao
+
+
+contexts ficam disponiveis em todos os componentes
+
+para o slider usamos a biblioteca 
+```
+yarn add rc-slider
+```
+
+para manipular elementos dentro de tag no react, ex: audio, passamos uma useRef
