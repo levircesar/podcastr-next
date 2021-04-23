@@ -134,3 +134,14 @@
     }
   }
 }
+
+
+@media (max-width: 1010px){
+  .playerContainer{
+    width: 100%;
+  }
+  .currentEpisode img{
+    max-width: 300px;
+
+  }
+}

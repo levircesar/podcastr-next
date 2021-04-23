@@ -23,3 +23,21 @@
     cursor: pointer;
   }
 }
+
+@media (max-width: 550px){
+  .headerContainer {
+    flex-direction: column;
+    padding: 1rem 1.5rem;
+    height: 7rem;
+    
+    p{
+      border-left: 0;
+      margin-left: 0;
+    }
+    span{
+      margin-left: 0;
+      text-transform: capitalize;
+    }
+  }
+
+}
