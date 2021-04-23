@@ -47,3 +47,9 @@ yarn add rc-slider
 ```
 
 para manipular elementos dentro de tag no react, ex: audio, passamos uma useRef
+
+features
+<ul>
+<li>Adicionar responsivo</li>
+<li>Adicionar PWA </li>
+</ul>
