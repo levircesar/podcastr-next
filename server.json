@@ -1,5 +1,18 @@
 {
   "episodes": [
+    {
+      "id": "Bem-vindo-ao-Podcastr",
+      "title": "Faladev #31 | Boas vindas",
+      "members": "Levir Lemos",
+      "published_at": "2021-01-23 17:35:40",
+      "thumbnail": "https://avatars.githubusercontent.com/u/42752810?v=4",
+      "description": "<p>Seja bem vindo(a) a essa aplicação desenvolvida na Next Level Week 5 da Rocketseat</p>",
+      "file": {
+      "url": "https://storage.googleapis.com/golden-wind/nextlevelweek/05-podcastr/audios/opensource.m4a",
+      "type": "audio/x-m4a",
+      "duration": 3981
+      }
+      },
   {
   "id": "a-importancia-da-contribuicao-em-open-source",
   "title": "Faladev #30 | A importância da contribuição em Open Source",
